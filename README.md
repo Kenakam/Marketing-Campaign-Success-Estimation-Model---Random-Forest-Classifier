@@ -33,5 +33,5 @@ The initial baseline model showed significant overfitting (100% Gini on training
 
 ## 🚀 Usage
 1. Clone the repository.
-2. Ensure `marketing.csv` and `deployment_data.csv` are in the project folder.
-3. Run `Classification Task questions - RF.ipynb` to view the analysis and training steps.
+2. Ensure `marketing.csv` and `marketing_test.xlsx` are in the project folder.
+3. Run `Marketing Campaign Success Estimation Model - Random_Forest_Classifier.ipynb` to view the analysis and training steps.
